@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiao Li"
-description              : "Researcher in Multimedia, Vision and Graphics. <br/> Joint Ph.D. of MSRA-USTC."
-repository               : "pableeto/pableeto.github.io"
+title                    : "Ruixuan Liu (刘睿瑄)"
+description              : "Postdoctoral fellow at Emory University, Computer Science Dept. Focusing on privacy-preserving machine learning."
+repository               : "Rachelxuan11/Rachelxuan11.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-2JP4E0YYYP # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiao Li (李潇)"
+  name             : "Ruixuan Liu (刘睿瑄)"
   avatar           : "images/avatar.jpg"
-  bio              : "Senior Researcher @ MSRA"
-  location         : "Beijing, China"
+  bio              : "Postdoctoral fellow @ Emory"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=hEPx3rwAAAAJ"
-  email            : "xili11@microsoft.com"
+  googlescholar    : "https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=en"
+  email            : "ruixuan.liu2@emory.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pableeto"
+  github           : "Rachelxuan11"
   google_plus      :
   keybase          :
   instagram        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
