@@ -34,7 +34,7 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 My works focuses on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
 I am broadly interested in trustworthy AI.
 
-<!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
+<!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->****
 
 <span class='anchor' id='publications'></span>
 
@@ -66,11 +66,11 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 
 <img src="https://img.shields.io/badge/SIGKDD-2023-blue"> [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) \
 **Ruixuan Liu**, Yang Cao, Yanlin Wang, Lingjuan Lyu, Yun Chen, Hong Chen \
-*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
 
 <img src="https://img.shields.io/badge/SIGKDD-2022-blue"> [No one left behind: Inclusive federated learning over heterogeneous devices](https://dl.acm.org/doi/abs/10.1145/3534678.3539086) \
 **Ruixuan Liu**, Fangzhao Wu, Chuhan Wu, Yanlin Wang, Lingjuan Lyu, Hong Chen, Xing Xie \
-*Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+*Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
 
 <img src="https://img.shields.io/badge/AAAI-2021-blue"> [Flame: Differentially private federated learning in the shuffle model](https://ojs.aaai.org/index.php/AAAI/article/view/17053) \
 **Ruixuan Liu**, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa \
@@ -90,7 +90,7 @@ Marina L Gavrilova, Ferdous Ahmed, ASM Hossain Bari, **Ruixuan Liu**, Tiantian L
 
 <img src="https://img.shields.io/badge/IWQoS-2019-blue">[Mixgeo: Efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/abs/10.1145/3326285.3329064) \
 Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
-*Proceedings of the 27th IEEE/ACM International Symposium on Quality of Service*
+*Proceedings of the 27th IEEE/ACM International Symposium on Quality of Service (IWQoS)*
 
 <!-- <img src=""> [Local differential privacy with k-anonymous for frequency estimation]()
 Dan Zhao, Hong Chen, Suyun Zhao, Xiaoying Zhang, Cuiping Li, **Ruixuan Liu** \
@@ -99,15 +99,15 @@ Dan Zhao, Hong Chen, Suyun Zhao, Xiaoying Zhang, Cuiping Li, **Ruixuan Liu** \
 ## <i class="fa fa-paper-plane"></i> Journal Papers
 <img src="https://img.shields.io/badge/TKDE-2021-blue">[LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
 Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
-*IEEE Transactions on Knowledge and Data Engineering*
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
 <img src="https://img.shields.io/badge/JoS-2020-blue"> [Survey on Privacy Attacks and Defenses in Machine Learning](https://www.jos.org.cn/jos/article/abstract/5904) \
 **Ruixuan Liu**, Hong Chen, Ruoyang Guo, Dan Zhao, Wenjuan Liang, Cuiping Li \
-Journal of Software (Chinese)
+*Journal of Software (Chinese)*
 
 <img src="https://img.shields.io/badge/C&S-2020-blue"> [A pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/abs/pii/S0167404820300389) \
 Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
-Computers & Security
+*Computers & Security*
 
 ## <i class="fa fa-paper-plane"></i> Preprints
 <img src="https://img.shields.io/badge/arXiv-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562), **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong
