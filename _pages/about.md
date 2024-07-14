@@ -17,80 +17,125 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior researcher in [Media Computing group](https://www.microsoft.com/en-us/research/group/media-computing-group/) at [Microsoft Research Asia (MSRA)](https://www.msra.cn/). 
-Prior to joining MSRA, I was a researcher / alogrithm engineer in Graphics AI team at [Kuaishou Technology (Kwai Inc.)](https://www.kuaishou.com/) from 2019 to 2020.
+I am currently the postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
+Previously, I was a Ph.D. student supervised by [Prof. Hong Chen](http://info.ruc.edu.cn/Home/Faculty/Departments/ComputerScienceandTechnology/fad56fc492784d1fa87f662044649b2f.blk.htm) at the School of Information, Renmin University of China from Sep. 2018 to June, 2023.
+During my Ph.D. study, I was a research intern at Amazon AWS AI lab, hosted by Zhiqi Bu and Zha Sheng in 2023, and I was a research intern at Microsoft Research Asia, hosted by Fangzhao Wu and Xing Xie in 2021-2022.
+I received my Bachelor's degree from China University of Petroleum in June, 2018.
+During my undergraduate stage, I was a visiting student in Biometric Technologies Laboratory (BTLAB) at University of Calgary, supervised by Prof. Marina L. Gavrilova.
 
-I got my Ph.D. degree from the joint Ph.D. program between [Unitersity of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) and MSRA in 2019, under the supervision of Dr. Baining Guo and Dr. Yong Wang. I obtained my B.Eng. degree in Eletronic Engineering also from USTC in 2013. 
-
-As a part of the MSRA-USTC Joint Ph.D. program, I was a long-term research intern in Internet Graphics group at MSRA from 2014 to 2019.
-During the internship I was mentored by [Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/) and [Yue Dong](https://yuedong.shading.me/), and also collaborated with [Lvdi Wang](https://scholar.google.com/citations?user=5h6bOIAAAAAJ), [Peiran Ren](https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en) and [Pieter Peers](https://www.cs.wm.edu/~ppeers/) closely.
-
-([Here](https://mp.weixin.qq.com/s?__biz=MzA4NzIyMDY0OA==&mid=2655393474&idx=1&sn=7268b5e38dddbb216f6354de3a9cf1e4&scene=19#wechat_redirect) is an article about my wonderful internship experience at MSRA.)
-
-My current research interests are multi-modality, 3D generative models, and neural rendering. I also have worked deeply in the field of material appearance modeling and 3D reconstruction. I have published 20+ papers at top-tier conferences and journals such as SIGGRAPH, CVPR, ICCV, ECCV, etc. Please drop me an email if you are interested in research internships or collaborations.
+<!-- <span class='anchor' id='news'></span> -->
 
 <!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.06*: &nbsp;🎉🎉 Personal website is online. -->
+
+<!-- <span class='anchor' id='research'></span>
+
+# 🧐 Research -->
+My works focuses on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
+I am broadly interested in trustworthy AI.
+
+<!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications (<a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
-(*: Intern at MSRA; †: Equal contribution.)
+<!-- (*: Mentored student; †: Equal contribution.) -->
+<!-- See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ) -->
+<!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
+  <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
+</a> -->
+
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers
-- <img src="https://img.shields.io/badge/ICCV-2023-blue"> [Efficient View Synthesis with Neural Radiance Distribution Field](https://arxiv.org/pdf/2308.11130.pdf), Yushuang Wu*, Xiao Li, Jinglu Wang, Xiaoguang Han, Shuguang Cui, Yan Lu
-- <img src="https://img.shields.io/badge/ICCV-2023-blue"> [R^2-VOS: Robust Referring Video Object Segmentation via Relational Cycle Consistency](https://arxiv.org/pdf/2207.01203.pdf), Xiang Li*, Jinglu Wang, Xiaohao Xu\*, Xiao Li, Yan Lu, Bhiksha Raj
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/pdf/2304.10168), Yue Gao, Yuan Zhou, Jinglu Wang, Xiao Li, Xiang Ming, Yan Lu
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [SCoDA: Domain Adaptive Shape Completion for Real Scans](https://arxiv.org/abs/2304.10179.pdf), Yushuang Wu*, Zizheng Yan, Ce Chen, Lai Wei, Xiao Li, Guanbin Li, Yihao Li, Shuguang Cui, Xiaoguang Han
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction](https://arxiv.org/pdf/2303.05937), Mingfang Zhang*, Jinglu Wang, Xiao Li, Yifei Huang, Yoichi Sato, Yan Lu
-- <img src="https://img.shields.io/badge/CVPR-2023-blue"> [Two-shot Video Object Segmentation](https://arxiv.org/pdf/2303.12078), Kun Yan*, Xiao Li, Fangyun Wei, Jinglu Wang, Chengbin Zhang, Ping Wang, Yan Lu
-- <img src="https://img.shields.io/badge/ECCV-2022-blue"> [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/pdf/2208.08728), Gusi Te*, Xiu Li\*, Xiao Li, Jinglu Wang, Wei Hu, Yan Lu
-- <img src="https://img.shields.io/badge/AAAI-2022-blue"> [Hybrid Instance-aware Temporal Fusion for Online Video Instance Segmentation](https://arxiv.org/pdf/2112.01695), Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/AAAI-2022-blue"> [Reliable Propagation Correction Modulation for Video Object Segmentation](https://arxiv.org/pdf/2112.02853), Xiaohao Xu*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/SIGGRAPH-2019-blue"> [Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images](https://gao-duan.github.io/publications/mvsvbrdf/mvsvbrdf_low_resolution.pdf), Duan Gao\*†, Xiao Li\*†, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/CVPR-2019-blue"> [Synthesizing 3D Shapes from Silhouette Image Collections using Multi-projection Generative Adversarial Networks](https://arxiv.org/pdf/1906.03841), Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/CGI-2019-blue"> [Capturing Piecewise SVBRDFs with Content Aware Lighting](https://link.springer.com/chapter/10.1007/978-3-030-22514-8_33), Xiao Li*, Peiran Ren, Yue Dong, Gang Hua, Xin Tong, Baining Guo (Short Paper)
-- <img src="https://img.shields.io/badge/PG-2018-blue"> [Single Photograph Surface Appearance Modeling with Self-augmented CNNs and Inexact Supervision](http://www.cs.wm.edu/~ppeers/publications/Ye2018SPS/Ye_CGF2018.pdf), Wenjie Ye*, Xiao Li\*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/SIGGRAPH-2017-blue"> [Modeling Surface Appearance from a Single Photograph using Self-augmented Convolutional Neural Networks](https://arxiv.org/pdf/1809.00886), Xiao Li*, Yue Dong, Pieter Peers, Xin Tong
-- <img src="https://img.shields.io/badge/PG-2013-blue"> [Hair Interpolation for Portrait Morphing](https://lvdiwang.com/publications/hairmorph/2013_hairmorph.pdf), Yanlin Weng, Lvdi Wang, Xiao Li*, Menglei Chai, Kun Zhou
 
-## <i class="fa fa-paper-plane"></i> Journal Papers
-- <img src="https://img.shields.io/badge/IEEE_TMM-blue"> [Video Instance Segmentation by Instance Flow Assembly](https://arxiv.org/pdf/2110.10599), Xiang Li*, Jinglu Wang, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/IEEE_TIP-blue"> [Unsupervised Temporal Correspondence Learning for Unified Video Object Removal](https://ieeexplore.ieee.org/document/10359477), Zhongdao Wang*, Jinglu Wang, Xiao Li, Ya-Li Li, Yan Lu, Shengjin Wang
-- <img src="https://img.shields.io/badge/ACM_TOMM-blue"> [Distribution Aligned Multimodal and Multi-Domain Image Stylization](https://arxiv.org/pdf/2006.01431), Minxuan Lin, Fan Tang, Weiming Dong, Xiao Li, Chongyang Ma, Changsheng Xu
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/favicon-16x16.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-## <i class="fa fa-paper-plane"></i> Preprints
-- <img src="https://img.shields.io/badge/arXiv-blue"> [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/pdf/2210.04217), Xiu Li*, Xiao Li, Yan Lu
-- <img src="https://img.shields.io/badge/arXiv-blue"> [Mimicking the In-Camera Color Pipeline for Camera-Aware Object Compositing](https://arxiv.org/pdf/1903.11248), Jun Gao*, Xiao Li\*, Liwei Wang, Sanja Fidler, Stephen Lin
+<!-- [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
 </div>
 </div> -->
-<!-- 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<img src="https://img.shields.io/badge/TPS_ISA-2023-blue"> [Supporting Pandemic Preparedness with Privacy Enhancing Technology]() \
+Ruixuan Liu, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
+*Proceedings of the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)*
 
-# 📖 Interns
-- Qi Chen (B.Eng., SJTU, 2023.04 - 2024.05): Now Ph.D. student at SJTU.
-- Yushuang Wu (Ph.D. candidate, CUHK, 2022.03 - 2023.03): Now Ph.D. candidate at CUHK.
-- Kun Yan, (Ph.D. candidate, Peking Univ., 2022.03 - 2023.03):, Now Postdoc at Peking Univ.
-- Xiu Li, (Ph.D. candidate, Tsinghua Univ., 2021.03 - 2022.03): Now Research Scientist at ByteDance.
-- Gusi Te, (M.S. candidate, Peking Univ., 2021.05 - 2021.12): Now Ph.D. candidate at Peking Univ.
-- Qian Wan, (B.Eng., Wuhan Univ., 2020.09 - 2021.04): Now Ph.D. candidate at City Univ. of Hong Kong.
+<img src="https://img.shields.io/badge/SIGKDD-2023-blue"> [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) \
+Ruixuan Liu, Yang Cao, Yanlin Wang, Lingjuan Lyu, Yun Chen, Hong Chen \
+*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+
+<img src="https://img.shields.io/badge/SIGKDD-2022-blue"> [No one left behind: Inclusive federated learning over heterogeneous devices](https://dl.acm.org/doi/abs/10.1145/3534678.3539086) \
+Ruixuan Liu, Fangzhao Wu, Chuhan Wu, Yanlin Wang, Lingjuan Lyu, Hong Chen, Xing Xie \
+*Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
+
+<img src="https://img.shields.io/badge/AAAI-2021-blue"> [Flame: Differentially private federated learning in the shuffle model](https://ojs.aaai.org/index.php/AAAI/article/view/17053) \
+Ruixuan Liu, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa \
+*Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)*
+
+<img src="https://img.shields.io/badge/DASFAA-2020-blue"> [Fedsel: Federated sgd under local differential privacy with top-k dimension selection](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_33) \
+Ruixuan Liu, Yang Cao, Masatoshi Yoshikawa, Hong Chen \
+*Proceedings of 25th International Conference of Database Systems for Advanced Applications (DASFAA)*
+
+## <i class="fa fa-paper-plane"></i> Journal Papers
+<img src="https://img.shields.io/badge/JoS-2020-blue"> [Survey on Privacy Attacks and Defenses in Machine Learning](https://www.jos.org.cn/jos/article/abstract/5904) \
+Ruixuan Liu, Hong Chen, Ruoyang Guo, Dan Zhao, Wenjuan Liang, Cuiping Li \
+Journal of Software (Chinese)
+
+## <i class="fa fa-paper-plane"></i> Preprints
+<img src="https://img.shields.io/badge/arXiv-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562), Ruixuan Liu, Tianhao Wang, Yang Cao, Li Xiong
+
+<img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, Ruixuan Liu, Justin Chiu, Sheng Zha, George Karypis
+
+<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, Ruixuan Liu, Yu-Xiang Wang, Sheng Zha, George Karypis
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+- Outstanding Doctoral Graduate, Renmin University of China, 2023
+- 2nd Prize of CIKM 2022 AnalytiCip Competition (with 3,000 USD), 2022
+- 1st-Class Academic Scholarship, School of Information, Renmin University of China, 2019-2022
+- Outstanding Visiting Student of University of Calgary, 2018
+- Outstanding Undergraduate Scholarship of China Scholarship Council, 2017
+- 1st Prize of Software Design Competition of Shandong Province, 2017
+- Special Prize of Bochuang Cup National College Students Embedded System Design Competition, 2017
+- Excellent Student Leader of Shandong Province, 2017
+- Shengli Scholarship of China University of Petroleum, 2017
+- Simei Star of China University of Petroleum, 2017
+- National Scholarship, Chinese Ministry of Education, 2016
+
+<span class='anchor' id='services'></span>
+
+# 💻 Services
+- Journal Reviewer
+  - IEEE Transactions on Mobile Computing (TMC) 2024
+  - IEEE Transactions on Information Forensics & Security (TIFS) 2024
+  - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2024
+- Conference Program Committee Member
+  - AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
+  - ACM International Conference on Information and Knowledge Management (CIKM) 2024
+- Conference Reviewer
+  - ACM Knowledge Discovery and Data Mining (SIGKDD) 2024-2025
+  - KDD-Workshop on FedKDD 2024
+  - ICML-Workshop on FM-Wild 2024
+  - SIGKDD-Workshop on Federated Learning for Distributed Data Mining [(FL4Data)](https://fl4data-mining.github.io/) 2023
+- External Reviewer
+  - IEEE International Conference on Data Engineering (ICDE) 2020-2021
+
+<span class='anchor' id='others'></span>
+
+# 👩‍🏫 Teaching
+- Co-instructor of CS573 fall 2024, Emory University
+- Guest lecturer of Theory and Practice of Algorithms, 2023 Spring, Hokkaido University
+
+<!-- # 🎤 Talks -->
+
+<!-- # 📖 Educations -->
+
+<!-- # 💼 Internships -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
