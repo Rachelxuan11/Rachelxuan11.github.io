@@ -88,7 +88,7 @@ Marina L Gavrilova, Ferdous Ahmed, ASM Hossain Bari, **Ruixuan Liu**, Tiantian L
 **Ruixuan Liu**, Yang Cao, Masatoshi Yoshikawa, Hong Chen \
 *Proceedings of 25th International Conference of Database Systems for Advanced Applications (DASFAA)*
 
-<img src="https://img.shields.io/badge/IWQoS-2019-blue">[Mixgeo: Efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/abs/10.1145/3326285.3329064) \
+<img src="https://img.shields.io/badge/IWQoS-2019-blue"> [Mixgeo: Efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/abs/10.1145/3326285.3329064) \
 Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
 *Proceedings of the 27th IEEE/ACM International Symposium on Quality of Service (IWQoS)*
 
@@ -97,7 +97,7 @@ Dan Zhao, Hong Chen, Suyun Zhao, Xiaoying Zhang, Cuiping Li, **Ruixuan Liu** \
 *Proceedings of the IEEE International Conference on Big Data (Big Data)* -->
 
 ## <i class="fa fa-paper-plane"></i> Journal Papers
-<img src="https://img.shields.io/badge/TKDE-2021-blue">[LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
+<img src="https://img.shields.io/badge/TKDE-2021-blue"> [LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
 Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
 *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
