@@ -44,7 +44,7 @@ I am broadly interested in trustworthy AI.
 <!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
   <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 </a> -->
-
+See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=en)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers
 
@@ -61,36 +61,60 @@ I am broadly interested in trustworthy AI.
 </div> -->
 
 <img src="https://img.shields.io/badge/TPS_ISA-2023-blue"> [Supporting Pandemic Preparedness with Privacy Enhancing Technology]() \
-Ruixuan Liu, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
+**Ruixuan Liu**, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
 *Proceedings of the 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)*
 
 <img src="https://img.shields.io/badge/SIGKDD-2023-blue"> [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) \
-Ruixuan Liu, Yang Cao, Yanlin Wang, Lingjuan Lyu, Yun Chen, Hong Chen \
+**Ruixuan Liu**, Yang Cao, Yanlin Wang, Lingjuan Lyu, Yun Chen, Hong Chen \
 *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 
 <img src="https://img.shields.io/badge/SIGKDD-2022-blue"> [No one left behind: Inclusive federated learning over heterogeneous devices](https://dl.acm.org/doi/abs/10.1145/3534678.3539086) \
-Ruixuan Liu, Fangzhao Wu, Chuhan Wu, Yanlin Wang, Lingjuan Lyu, Hong Chen, Xing Xie \
+**Ruixuan Liu**, Fangzhao Wu, Chuhan Wu, Yanlin Wang, Lingjuan Lyu, Hong Chen, Xing Xie \
 *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*
 
 <img src="https://img.shields.io/badge/AAAI-2021-blue"> [Flame: Differentially private federated learning in the shuffle model](https://ojs.aaai.org/index.php/AAAI/article/view/17053) \
-Ruixuan Liu, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa \
+**Ruixuan Liu**, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa \
 *Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)*
 
+<img src="https://img.shields.io/badge/EMNLP-2021-blue"> [Efficient-FedRec: Efficient federated learning framework for privacy-preserving news recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) \
+Jingwei Yi, Fangzhao Wu, Chuhan Wu, **Ruixuan Liu**, Guangzhong Sun, Xing Xie \
+*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*
+
+<!-- <img src="https://img.shields.io/badge/-2021-blue"> [Multi-modal motion-capture-based biometric systems for emergency response and patient rehabilitation](https://www.igi-global.com/chapter/multi-modal-motion-capture-based-biometric-systems-for-emergency-response-and-patient-rehabilitation/261369)
+Marina L Gavrilova, Ferdous Ahmed, ASM Hossain Bari, **Ruixuan Liu**, Tiantian Liu, Yann Maret, Brandon Kawah Sieu, Tanuja Sudhakar \
+*Research Anthology on Rehabilitation Practices and Therapy* -->
+
 <img src="https://img.shields.io/badge/DASFAA-2020-blue"> [Fedsel: Federated sgd under local differential privacy with top-k dimension selection](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_33) \
-Ruixuan Liu, Yang Cao, Masatoshi Yoshikawa, Hong Chen \
+**Ruixuan Liu**, Yang Cao, Masatoshi Yoshikawa, Hong Chen \
 *Proceedings of 25th International Conference of Database Systems for Advanced Applications (DASFAA)*
 
+<img src="https://img.shields.io/badge/IWQoS-2019-blue">[Mixgeo: Efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/abs/10.1145/3326285.3329064) \
+Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
+*Proceedings of the 27th IEEE/ACM International Symposium on Quality of Service*
+
+<!-- <img src=""> [Local differential privacy with k-anonymous for frequency estimation]()
+Dan Zhao, Hong Chen, Suyun Zhao, Xiaoying Zhang, Cuiping Li, **Ruixuan Liu** \
+*Proceedings of the IEEE International Conference on Big Data (Big Data)* -->
+
 ## <i class="fa fa-paper-plane"></i> Journal Papers
+<img src="https://img.shields.io/badge/TKDE-2021-blue">[LuxGeo: Efficient and Security-Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/abstract/document/9477110) \
+Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
+*IEEE Transactions on Knowledge and Data Engineering*
+
 <img src="https://img.shields.io/badge/JoS-2020-blue"> [Survey on Privacy Attacks and Defenses in Machine Learning](https://www.jos.org.cn/jos/article/abstract/5904) \
-Ruixuan Liu, Hong Chen, Ruoyang Guo, Dan Zhao, Wenjuan Liang, Cuiping Li \
+**Ruixuan Liu**, Hong Chen, Ruoyang Guo, Dan Zhao, Wenjuan Liang, Cuiping Li \
 Journal of Software (Chinese)
 
+<img src="https://img.shields.io/badge/C&S-2020-blue"> [A pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/abs/pii/S0167404820300389) \
+Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
+Computers & Security
+
 ## <i class="fa fa-paper-plane"></i> Preprints
-<img src="https://img.shields.io/badge/arXiv-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562), Ruixuan Liu, Tianhao Wang, Yang Cao, Li Xiong
+<img src="https://img.shields.io/badge/arXiv-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562), **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong
 
-<img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, Ruixuan Liu, Justin Chiu, Sheng Zha, George Karypis
+<img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, **Ruixuan Liu**, Justin Chiu, Sheng Zha, George Karypis
 
-<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, Ruixuan Liu, Yu-Xiang Wang, Sheng Zha, George Karypis
+<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, **Ruixuan Liu**, Yu-Xiang Wang, Sheng Zha, George Karypis
 
 <span class='anchor' id='honors-and-awards'></span>
 
