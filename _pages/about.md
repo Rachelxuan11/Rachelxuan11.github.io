@@ -34,7 +34,7 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 My works focuses on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
 I am broadly interested in trustworthy AI.
 
-<!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->****
+<!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
 
 <span class='anchor' id='publications'></span>
 
@@ -59,6 +59,10 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 </div>
 </div> -->
+
+<img src="https://img.shields.io/badge/CCS-2024-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562) \
+**Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
+*To appear in the 31th ACM Conference on Computer and Communications Security (CCS)*
 
 <img src="https://img.shields.io/badge/TPS_ISA-2023-blue"> [Supporting Pandemic Preparedness with Privacy Enhancing Technology]() \
 **Ruixuan Liu**, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
@@ -110,7 +114,6 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 *Computers & Security*
 
 ## <i class="fa fa-paper-plane"></i> Preprints
-<img src="https://img.shields.io/badge/arXiv-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://arxiv.org/pdf/2403.09562), **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong
 
 <img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, **Ruixuan Liu**, Justin Chiu, Sheng Zha, George Karypis
 
@@ -120,7 +123,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 
 # 🎖 Honors and Awards
 - Outstanding Doctoral Graduate, Renmin University of China, 2023
-- 2nd Prize of CIKM 2022 AnalytiCip Competition (with 3,000 USD), 2022
+- 2nd Prize of CIKM 2022 AnalytiCup Competition (with 3,000 USD), 2022
 - 1st-Class Academic Scholarship, School of Information, Renmin University of China, 2019-2022
 - Outstanding Visiting Student of University of Calgary, 2018
 - Outstanding Undergraduate Scholarship of China Scholarship Council, 2017
@@ -139,6 +142,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
   - IEEE Transactions on Information Forensics & Security (TIFS) 2024
   - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2024
 - Conference Program Committee Member
+  - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025
   - AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
   - ACM International Conference on Information and Knowledge Management (CIKM) 2024
 - Conference Reviewer
