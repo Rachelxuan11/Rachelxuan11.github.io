@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently the postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
+I am currently a postdoctoral fellow in [Assured Information Management and Sharing (AIMS)](http://www.cs.emory.edu/site/aims/people.html) at the Computer Science Department of  Emory University, supervised by [Prof. Li Xiong](http://www.cs.emory.edu/~lxiong/) since Aug. 2023. 
 Previously, I was a Ph.D. student supervised by [Prof. Hong Chen](http://info.ruc.edu.cn/Home/Faculty/Departments/ComputerScienceandTechnology/fad56fc492784d1fa87f662044649b2f.blk.htm) at the School of Information, Renmin University of China from Sep. 2018 to June, 2023.
 During my Ph.D. study, I was a research intern at Amazon AWS AI lab, hosted by Zhiqi Bu and Zha Sheng in 2023, and I was a research intern at Microsoft Research Asia, hosted by Fangzhao Wu and Xing Xie in 2021-2022.
 I received my Bachelor's degree from China University of Petroleum in June, 2018.
