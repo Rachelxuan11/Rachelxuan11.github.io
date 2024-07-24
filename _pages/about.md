@@ -31,7 +31,7 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 <!-- <span class='anchor' id='research'></span>
 
 # 🧐 Research -->
-My works focuses on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
+My works focus on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
 I am broadly interested in trustworthy AI.
 
 <!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
