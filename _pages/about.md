@@ -62,7 +62,7 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 
 <img src="https://img.shields.io/badge/CCS-2024-blue"> PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps \
 **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
-*To appear in the 31th ACM Conference on Computer and Communications Security (CCS)*
+*Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS)*
 
 <img src="https://img.shields.io/badge/TPS_ISA-2023-blue"> [Supporting Pandemic Preparedness with Privacy Enhancing Technology]() \
 **Ruixuan Liu**, Sepanta Zeighami, Haowen Lin, Cyrus Shahabi, Yang Cao, Shun Takagi, Yoko Konishi, Masatoshi Yoshikawa, Li Xiong \
@@ -155,11 +155,10 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 
 <span class='anchor' id='others'></span>
 
-# 👩‍🏫 Teaching
-- Co-instructor of CS573 fall 2024, Emory University
-- Guest lecturer of Theory and Practice of Algorithms, 2023 Spring, Hokkaido University
-
-<!-- # 🎤 Talks -->
+# 👩‍🏫 Teaching & Talks
+- Privacy Challenge as Models Scale: Training Efficiency and Amplified Risk, @[University of Virginia, AI ML seminar](https://uvaml.github.io/pasttalks/2024-10-30/)
+- Co-instructor @Emory University, CS573 fall 2024
+- Guest lecturer @THokkaido University, heory and Practice of Algorithms, 2023 Spring
 
 <!-- # 📖 Educations -->
 
