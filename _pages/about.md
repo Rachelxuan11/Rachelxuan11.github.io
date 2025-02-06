@@ -60,6 +60,10 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 </div>
 </div> -->
 
+<img src="https://img.shields.io/badge/ICLR-2025-blue"> Towards hyperparameter-free optimization with differential privacy \
+**Ruixuan Liu**$^*$, Zhiqi Bu$^*$ \
+*To appear in the 13th International Conference on Learning Representations (ICLR)*
+
 <img src="https://img.shields.io/badge/CCS-2024-blue"> PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps \
 **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
 *Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS)*
