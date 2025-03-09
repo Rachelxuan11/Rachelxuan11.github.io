@@ -60,11 +60,11 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 </div>
 </div> -->
 
-<img src="https://img.shields.io/badge/ICLR-2025-blue"> Towards hyperparameter-free optimization with differential privacy \
+<img src="https://img.shields.io/badge/ICLR-2025-blue"> [Towards hyperparameter-free optimization with differential privacy](https://openreview.net/forum?id=2kGKsyhtvh) \
 **Ruixuan Liu†**, Zhiqi Bu† \
 *To appear in the 13th International Conference on Learning Representations (ICLR) **[Spotlight]***
 
-<img src="https://img.shields.io/badge/CCS-2024-blue"> PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps \
+<img src="https://img.shields.io/badge/CCS-2024-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://dl.acm.org/doi/10.1145/3658644.3690279) \
 **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
 *Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS)*
 
@@ -117,11 +117,10 @@ Ruoyang Guo, Bo Qin, Yuncheng Wu, **Ruixuan Liu**, Hong Chen, Cuiping Li \
 Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 *Computers & Security*
 
-## <i class="fa fa-paper-plane"></i> Preprints
+<!-- ## <i class="fa fa-paper-plane"></i> Preprints -->
+<!-- <img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, **Ruixuan Liu**, Justin Chiu, Sheng Zha, George Karypis
 
-<img src="https://img.shields.io/badge/arXiv-blue"> [Zero redundancy distributed learning with differential privacy](https://arxiv.org/pdf/2311.11822), Zhiqi Bu, **Ruixuan Liu**, Justin Chiu, Sheng Zha, George Karypis
-
-<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, **Ruixuan Liu**, Yu-Xiang Wang, Sheng Zha, George Karypis
+<img src="https://img.shields.io/badge/arXiv-blue"> [On the accuracy and efficiency of group-wise clipping in differentially private optimization](https://arxiv.org/pdf/2310.19215), Zhiqi Bu, **Ruixuan Liu**, Yu-Xiang Wang, Sheng Zha, George Karypis -->
 
 <span class='anchor' id='honors-and-awards'></span>
 
