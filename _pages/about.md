@@ -25,14 +25,21 @@ During my undergraduate stage, I was a visiting student in Biometric Technologie
 
 <!-- <span class='anchor' id='news'></span> -->
 
-<!-- # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Personal website is online. -->
-
 <!-- <span class='anchor' id='research'></span>
 
 # 🧐 Research -->
 My works focus on advancing privacy enhancement techniques (PETs) to create machine learning systems that are not only theoretically privacy-preserving but also practically viable with better utility, efficiency and inclusiveness.
 I am broadly interested in trustworthy AI.
+
+# 🔥 News
+- *2025.11*: Our work is accepted by NDSS'26! See you in San Diego!
+- *2025.7*: Our work is accepted by MM'2025 and get outstanding paper award!
+- *2025.4*: Attend ICLR'2025 in Singapore! 
+- *2025.4*: Our work is accepted by ACL'2025 (Findings)!
+- *2025.1*: Our work is accepted by ICLR'2025 as Spotlight paper!
+- *2024.10*: Give a talk at UVa AI seminar!
+- *2024.10*: Attend CCS'2025 in Salt Lake City!
+- *2024.8*: Personal website online!
 
 <!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
 
@@ -44,6 +51,7 @@ I am broadly interested in trustworthy AI.
 <!-- <a href='https://scholar.google.com/citations?user=sXWB1UQAAAAJ'>
   <img src="https://img.shields.io/badge/citations-123-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat">
 </a> -->
+† represents co-first author, * represents corresponding author.
 See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=en)
 
 ## <i class="fa fa-paper-plane"></i> Conference Papers
@@ -60,9 +68,21 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 </div>
 </div> -->
 
+<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
+**Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \
+*To Appear in Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
+
+<img src="https://img.shields.io/badge/MM-2025-blue"> [Differentially Private Visual Learning with Public Subspace Augmented by Synthetic Data](https://dl.acm.org/doi/pdf/10.1145/3746027.3755037) \
+Haichao Sha, Yuncheng Wu, **Ruixuan Liu**, Yang Cao, Hong Chen \
+*Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM **Outstanding Paper Award**)*
+
+<img src="https://img.shields.io/badge/ACL-2025-blue"> [Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://aclanthology.org/2025.findings-acl.1174/) \
+Toan Tran, **Ruixuan Liu**$^*$, Li Xiong \
+*Proceedings of the Findings of the 63rd Association for Computational Linguistics (ACL Findings)*
+
 <img src="https://img.shields.io/badge/ICLR-2025-blue"> [Towards hyperparameter-free optimization with differential privacy](https://openreview.net/forum?id=2kGKsyhtvh) \
 **Ruixuan Liu†**, Zhiqi Bu† \
-*To appear in the 13th International Conference on Learning Representations (ICLR) **[Spotlight]***
+*Proceedings of the 13th International Conference on Learning Representations (ICLR **Spotlight**, Top 5.2%)*
 
 <img src="https://img.shields.io/badge/CCS-2024-blue"> [PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps](https://dl.acm.org/doi/10.1145/3658644.3690279) \
 **Ruixuan Liu**, Tianhao Wang, Yang Cao, Li Xiong \
@@ -125,6 +145,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- Outstanding Paper, ACM MM, 2025
 - Outstanding Doctoral Graduate, Renmin University of China, 2023
 - 2nd Prize of CIKM 2022 AnalytiCup Competition (with 3,000 USD), 2022
 - 1st-Class Academic Scholarship, School of Information, Renmin University of China, 2019-2022
@@ -143,13 +164,13 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 - Journal Reviewer
   - IEEE Transactions on Mobile Computing (TMC) 2024
   - IEEE Transactions on Information Forensics & Security (TIFS) 2024
-  - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2024
+  - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2025
 - Conference Program Committee Member
-  - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025
-  - AAAI Conference on Artificial Intelligence (AAAI) 2023-2025
+  - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025-2026
+  - AAAI Conference on Artificial Intelligence (AAAI) 2023-2026
   - ACM International Conference on Information and Knowledge Management (CIKM) 2024
 - Conference Reviewer
-  - ACM Knowledge Discovery and Data Mining (SIGKDD) 2024-2025
+  - ACM Knowledge Discovery and Data Mining (SIGKDD) 2024-2026
   - KDD-Workshop on FedKDD 2024
   - ICML-Workshop on FM-Wild 2024
   - SIGKDD-Workshop on Federated Learning for Distributed Data Mining [(FL4Data)](https://fl4data-mining.github.io/) 2023
@@ -161,7 +182,8 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 # 👩‍🏫 Teaching & Talks
 - Privacy Challenge as Models Scale: Training Efficiency and Amplified Risk, @[University of Virginia, AI ML seminar](https://uvaml.github.io/pasttalks/2024-10-30/)
 - Co-instructor @Emory University, CS573 fall 2024
-- Guest lecturer @THokkaido University, heory and Practice of Algorithms, 2023 Spring
+- Guest lecturer @Hokkaido University, Theory and Practice of Algorithms, 2023 Spring
+
 
 <!-- # 📖 Educations -->
 
