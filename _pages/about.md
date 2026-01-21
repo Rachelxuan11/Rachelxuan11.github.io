@@ -78,7 +78,7 @@ Haichao Sha, Yuncheng Wu, **Ruixuan Liu**, Yang Cao, Hong Chen \
 *Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM, **Outstanding Paper Award**)*
 
 <img src="https://img.shields.io/badge/ACL-2025-blue"> [Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training](https://aclanthology.org/2025.findings-acl.1174/) \
-Toan Tran, **Ruixuan Liu***, Li Xiong \
+Toan Tran, **Ruixuan Liu**$^*$, Li Xiong \
 *Proceedings of the Findings of the 63rd Association for Computational Linguistics (ACL Findings)*
 
 <img src="https://img.shields.io/badge/ICLR-2025-blue"> [Towards hyperparameter-free optimization with differential privacy](https://openreview.net/forum?id=2kGKsyhtvh) \
