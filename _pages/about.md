@@ -32,13 +32,14 @@ My works focus on advancing privacy enhancement techniques (PETs) to create mach
 I am broadly interested in trustworthy AI.
 
 # 🔥 News
-- *2025.11*: Our work is accepted by NDSS'26! See you in San Diego!
-- *2025.7*: Our work is accepted by MM'2025 and get outstanding paper award!
-- *2025.4*: Attend ICLR'2025 in Singapore! 
-- *2025.4*: Our work is accepted by ACL'2025 (Findings)!
-- *2025.1*: Our work is accepted by ICLR'2025 as Spotlight paper!
-- *2024.10*: Give a talk at UVa AI seminar!
-- *2024.10*: Attend CCS'2025 in Salt Lake City!
+- *2025.11*: One paper accepted to NDSS '26! See you in San Diego!
+- *2025.10*: Invited to serve as a Program Committee Member for CCS 2026.
+- *2025.7*: One paper accepted to ACM MM '25 and received the Outstanding Paper Award! 🏆
+- *2025.4*: Attended ICLR '25 in Singapore.
+- *2025.4*: One paper accepted to ACL '25 (Findings).
+- *2025.1*: One paper accepted to ICLR '25 as a Spotlight presentation! ✨
+- *2024.10*: Gave a talk at the UVa AI Seminar.
+- *2024.10*: Attended CCS '24 in Salt Lake City.
 - *2024.8*: Personal website online!
 
 <!-- <span style="color:red">Please drop me an email if you are interested in collaborations.</span> -->
@@ -166,6 +167,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
   - IEEE Transactions on Information Forensics & Security (TIFS) 2024
   - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023-2025
 - Conference Program Committee Member
+  - ACM Conference on Computer and Communications Security (CCS) 2025
   - IEEE Conference on Secure and Trustworthy Machine Learning (SatML) 2025-2026
   - AAAI Conference on Artificial Intelligence (AAAI) 2023-2026
   - ACM International Conference on Information and Knowledge Management (CIKM) 2024
@@ -176,6 +178,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
   - SIGKDD-Workshop on Federated Learning for Distributed Data Mining [(FL4Data)](https://fl4data-mining.github.io/) 2023
 - External Reviewer
   - IEEE International Conference on Data Engineering (ICDE) 2020-2021
+  - Network and Distributed System Security Symposium (NDSS) 2025
 
 <span class='anchor' id='others'></span>
 
