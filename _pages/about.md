@@ -147,6 +147,7 @@ Wenjuan Liang, Hong Chen, **Ruixuan Liu**, Yuncheng Wu, Cuiping Li \
 
 # 🎖 Honors and Awards
 - Outstanding Paper, ACM MM, 2025
+- Commendable Reviewers, SIGKDD, 2025
 - Travel Award, ACM CCS Diversity, Equity, and Inclusion (DEI) Workshop, 2024
 - Outstanding Doctoral Graduate, Renmin University of China, 2023
 - 2nd Prize of CIKM 2022 AnalytiCup Competition (with 3,000 USD), 2022
