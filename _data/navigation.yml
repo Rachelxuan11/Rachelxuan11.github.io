@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  # - title: "Research"
+  #   url: "/#research"
+
+  - title: "Publications and Preprints"
+    url: "/#publications"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  # - title: "Educations"
+  #   url: "/#educations"
+
+  # - title: "Internships"
+  #   url: "/#internship"
+
+  - title: "Services"
+    url: "#services"
+
+  - title: "Other Activities"
+    url: "#others"
+
+  # - title: "Teaching"
+  #   url: "/#teaching"
