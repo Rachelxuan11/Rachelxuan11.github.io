@@ -82,12 +82,17 @@ See full list [here](https://scholar.google.com/citations?user=sXWB1UQAAAAJ&hl=e
 </div>
 </div> -->
 
-<img src="https://img.shields.io/badge/S&P-2026-blue"> [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs]() \
+<img src="https://img.shields.io/badge/ACL-2026-blue"> [Direct Token Optimization: A Self-Contained Approach to
+Large Language Model Unlearning](https://aclanthology.org/2026.findings-acl.2088.pdf) \
+Hongkyu Lee, **Ruixuan Liu**\*, Li Xiong \
+*Proceedings of the Findings of the 64th Association for Computational Linguistics (ACL Findings)*
+
+<img src="https://img.shields.io/badge/S&P-2026-blue"> [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b654a/2hBErNg375C) \
 **Ruixuan Liu**, David Evans, Li Xiong \
-*To Appear in Proceedings of the 47th IEEE Symposium on
+*Proceedings of the 47th IEEE Symposium on
 Security and Privacy (S&P, Acceptance Rate: 13%)*
 
-<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation]() \
+<img src="https://img.shields.io/badge/NDSS-2026-blue"> [ExpShield: Safeguarding Web Text from Unauthorized Crawling and  LLM Exploitation](https://www.ndss-symposium.org/wp-content/uploads/2026-f11-paper.pdf) \
 **Ruixuan Liu**, Toan Tran, Tianhao Wang, Hongsheng Hu, Shuo Wang, Li Xiong \
 *Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS, Acceptance Rate: 152/950=16%)*
 
